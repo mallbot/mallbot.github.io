@@ -1,4 +1,5 @@
 # ABC yachts Webpage
+Todo list:
 1. Insert a carrousel
 2. Jquery modal creation adoption
 3. Create suitable texts
