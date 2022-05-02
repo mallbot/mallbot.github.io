@@ -4,3 +4,4 @@
 3. Create suitable texts
 4. Add contact to the corresponding section
 5. Add logos
+6. Repair button hovering color
