@@ -11789,3 +11789,38 @@ section#contact form#contactForm :-ms-input-placeholder {
   width: 100%;
   /* The width is the width of the web page */
 }
+
+.popular-container{
+  padding: 1rem 0 5rem;
+}
+
+.popular-card{
+  width: 290px;
+  background-color: var(--bs-white);
+  padding: .5rem .5rem .1.5rem;
+  border-radius: 1rem;
+  margin: 0 auto;
+  transition: 4s;
+}
+
+.popular-img{
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+.popular-price{
+  color: var(--bs-blue);
+}
+
+.popular-title{
+  font-size: calc(1.3rem + 0.6vw);
+  margin-bottom: .75rem;
+}
+
+.popular-description{
+  font-size: small;
+}
+
+.popular-card:hover{
+  box-shadow: 0 12px 16px hsla(228, 66%, 45%, .1);
+}
